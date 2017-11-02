@@ -1,0 +1,15 @@
+footer{
+    margin-top: 60px;
+    padding: 100px;
+    text-align: center;
+    background: #141414;
+}
+.icon-twitter, .icon-facebook, .icon-instagram{
+    color: #d1d1d1;
+    font-size: 40px;
+}
+
+.icon-twitter:hover, .icon-facebook:hover, .icon-instagram:hover{
+    color: #eb797b;
+    cursor: pointer;
+}
